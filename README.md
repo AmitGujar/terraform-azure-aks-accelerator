@@ -48,3 +48,8 @@ $env:ARM_CLIENT_SECRET="<service_principal_password>"
 ## Modules
 
 No modules.
+
+## Reference Architecture
+<img src="arch/landing_zone_accelerator.png"
+     alt="Reference Architecture"
+     style="float: left; margin-right: 10px;" />
